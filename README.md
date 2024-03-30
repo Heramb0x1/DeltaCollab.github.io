@@ -10,7 +10,7 @@ The 'Delta Devs' team successfully built a website catering to Open Science Proj
 
 🚀 My specific contributions revolved around design work, including the creation of a distinctive logo and trademark for our website. Additionally, I played a crucial role in deploying the website.
 
-For more details, you can visit my LinkedIn post: https://www.linkedin.com/posts/heramb0x1_research-publication-engineering-activity-7117230141482631168
+For more details, you can visit my LinkedIn post: https://www.linkedin.com/posts/heramb0x1_research-publication-engineering-activity-7117230141482631168-eixs
 
 
 
